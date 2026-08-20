@@ -9,3 +9,7 @@ Exit-ordered role allocation defines recovery or authority roles before assignin
 - [Technical paper](exit-ordered-role-allocation/paper.md)
 - [The Keys That Do Not Exist Yet](exit-ordered-role-allocation/the-keys-that-do-not-exist-yet.md)
 - [Exit-Ordered Role Allocation for Recovery and Continuity](exit-ordered-role-allocation/recovery-and-continuity.md)
+
+## Money and Value
+
+- [You Cannot Store “Lifetime”](money-and-value/you-cannot-store-lifetime.md)
