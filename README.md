@@ -15,7 +15,7 @@ Exit-ordered role allocation defines recovery or authority roles before assignin
 Sensitive software: software whose cheap mutability is disciplined by real use, qualification, selection, and explicit boundaries. The loop is `use → qualify → generate → expose → select → use`. Users are a sensor, not an oracle. The idea generalizes from SHAcollision’s personal experiment: a vibe-coded health app wired to his fitness ring, where used features expanded and neglected ones disappeared.
 
 - [Vibeware: The Age of Sensitive Software](vibeware/vibeware.md)
-- [The Vibeware Playbook](vibeware/vibeware-playbook.md)
+- [The Vibeware Playbook](vibeware/vibeware-playbook.md) (implementation spec)
 - [Prior-art claim chart](vibeware/prior-art-claim-chart.md)
 
 ## Money and Value
