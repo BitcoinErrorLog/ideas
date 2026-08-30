@@ -16,7 +16,7 @@ Bitdefender used "vibeware" for vibe-coded malware. That is not this. Jules Whit
 
 Implementation is no longer the scarce part of software. A reasonably clear description of a product surface can now become running code in days. That collapse is real enough that the old chain (specify, design, build, stage, release, then finally learn) is optimized around a cost that is disappearing. The remaining scarce work is judgment: what is worth trying, what a change is allowed to touch, what evidence counts, and which small fraction of generated work deserves to become permanent.
 
-The next step is not another way to produce tickets faster. It is a way to let use itself become the input that decides which source changes are generated, which of those survive, and which are promoted into the shared product.
+A live loop is one way to spend that cheapness. It is not a replacement for the ways software has always been made. Spec-first work, staged research, and a person with taste still invent surfaces a population cannot request, and still hold lines a remnant will vote against. Use can become an input that decides which source changes are generated, which of those survive, and which are promoted. It should not become the only input, and it should not be allowed to bias for the wrong thing.
 
 ## Two loops, one nerve
 
@@ -87,6 +87,22 @@ If implementation stays cheap and qualification stays human-only, teams will dro
 Cheap generation without a lossy funnel does not remove human work. It defers it, then multiplies it.
 
 The incentive inside a team is to count merges, demos, and "the agent shipped." Those numbers will go up if you skip qualification and review. The maintenance numbers will go up shortly after. A live loop is a way to spend the new cheapness on the part of the problem users can actually see, and to refuse the rest.
+
+## Taste still decides
+
+Traditional software flows have merits that sensitivity does not erase.
+
+A staged R&D process can create a category, a protocol, or a default that nobody asked for because nobody had seen it. It can keep a payment path, a key ceremony, or an ugly-correct interface fixed while a cohort learns to want the smoother wrong thing. It can spend months on a question whose answer will not show up in a week of telemetry. Those are not legacy habits. They are how you get objects that use cannot discover.
+
+Users are a sensor. They are not an oracle. People are precise about the last friction and silent about the next product. They will ask to make the current door lighter. They will not ask you to invent a different building. Repeated use is not the same object as a good product. Stated preference is not either. A person can want more badges, more stats, more paths, and still be worse off if you give them to him.
+
+The incentive inside a sensitive flow is to treat measured use as the truth about what should exist. That biases the product toward what is already being touched, toward intensity that is easy to count, and toward the people who stayed. A health app that expands what you use and hides what you ignore is a good personal instrument when the beneficiary is you. A shared product that only grows what is already popular will never grow the next thing. A loop that maximizes "users wanted this" will ship the average of the last cohort.
+
+Traditional process has the opposite failure. It can ignore real friction for years because a roadmap already exists. Sensitivity is how you stop doing that. Taste is how you stop the opposite. Qualification is supposed to kill most signals. Taste is allowed to kill the rest, including signals that are real, repeated, and still wrong for the product you are trying to be.
+
+A sensitive flow should not bias for dwell, ticket volume, the loudest user, or the remnant who learned the last interface. It should not treat "they used it more" as "it should exist more" when the use is compulsive, confused, or the only path left after you hid the alternative. SHAcollision could remove a neglected feature because the deletion happened to him, on his terms. A shared loop that deletes what a minority still needs, because the majority stopped touching it, has confused neglect with consent.
+
+Use this method where friction is specific, reversible, and already in the product. Use research and taste where the job is to create a surface that does not exist yet, or to keep one that must not move.
 
 ## What use is allowed to move
 
@@ -162,7 +178,7 @@ Pubky's platform claim can be tested the same way. If every experiment requires 
 
 SHAcollision's app is a personal instrument. It grew the parts he used and dropped the parts he ignored. Take that seriously and the horizon is not a better ticket queue. It is an operating environment that is as sensitive to one person as a ring is to a wrist, and as willing to hide what that person has stopped needing.
 
-Layout, density, ranking, notifications, and "how I want to see this" stop being a vendor's annual taste and start following a stated preference, plus how that preference changes. You tell the machine you want fewer badges, denser lists, quieter mornings, a health surface that reports and does not nag. Then you live with it. When your use diverges from what you said, the software can notice the divergence and propose a change to *your* environment, not to everyone else's release. The shared funnel is how a product moves. The personal loop is how a key's world moves.
+In a personal environment, layout, density, ranking, notifications, and "how I want to see this" stop being only a vendor's annual taste and start following a stated preference, plus how that preference changes. Taste still belongs to the wearer. The machine is allowed to notice. It is not allowed to replace a judgment about what the wearer should become. You tell the machine you want fewer badges, denser lists, quieter mornings, a health surface that reports and does not nag. Then you live with it. When your use diverges from what you said, the software can notice the divergence and propose a change to *your* environment, not to everyone else's release. The shared funnel is how a product moves. The personal loop is how a key's world moves.
 
 Developers are not abolished by decree. They recede because the scarce work is no longer tickets. The remaining jobs are the ones a live loop cannot be trusted with: the boundaries around keys, money, and protocol; the identity that outlives any one model; and taste that a metric will Goodhart if you let it. Writing another settings page is cheap. Deciding what must stay fixed even when the wearer is loud is not.
 
@@ -180,6 +196,6 @@ The shared form exists when a real user population can move a common product thr
 
 The personal form exists when one key can feel its own use and reshape its own environment without rewriting everyone else's, and when that key can leave with its memory and its grants.
 
-It does not exist when an agent dumps patches into a repository because the error-rate graph twitched. It does not exist when "user pull" is dwell time. It does not exist when the measurement system is the product and the product is what the agent is allowed to rewrite. It does not exist when signed user data, or a body reading from a ring, is treated as a free sensor because it is convenient. It does not exist when the team cannot name who may halt the loop. And it does not exist when sensitivity has no exit.
+It does not exist when an agent dumps patches into a repository because the error-rate graph twitched. It does not exist when "user pull" is dwell time. It does not exist when use is treated as an oracle and taste is treated as obstruction. It does not exist when the measurement system is the product and the product is what the agent is allowed to rewrite. It does not exist when signed user data, or a body reading from a ring, is treated as a free sensor because it is convenient. It does not exist when the team cannot name who may halt the loop. And it does not exist when sensitivity has no exit.
 
 Code is becoming abundant. Attention is not. The scarce work is still judgment: what may be collected, what may be generated, what may be promoted, and what must remain fixed even when the population, or the wearer, is loud.
