@@ -15,5 +15,5 @@ The idea generalizes from SHAcollision's personal experiment: a vibe-coded healt
 Bitdefender used "vibeware" in 2026 for AI-generated malware. This work uses the word independently and in a different sense.
 
 - [Vibeware: The Age of Sensitive Software](vibeware.md)
-- [The Vibeware Playbook](vibeware-playbook.md) (implementation spec: schemas, predicates, halt gates)
+- [The Vibeware Technical Playbook](vibeware-playbook.md)
 - [Prior-art claim chart](prior-art-claim-chart.md)
