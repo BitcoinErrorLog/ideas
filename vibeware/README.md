@@ -1,18 +1,19 @@
 # Vibeware
 
-Software that can feel use and move, with a threshold.
+Sensitive software: software whose cheap mutability is disciplined by real use, qualification, selection, and explicit boundaries.
 
-The shared loop is a funnel, not a pile of work:
+The canonical loop:
 
 ```
-capture → qualify → candidate → validate → promote
+use → qualify → generate → expose → select → use
 ```
 
-A real user population qualifies what gets written next. An agent writes the candidates. Humans hold only the boundaries: consent, money, keys, private data, and protocol compatibility. Most signals die at qualification. That is the design. The loop is one method, not a replacement for spec-first work or taste. Users are a sensor, not an oracle.
+Most captured signals should die at qualification. Most generated candidates should never become permanent. The assurance burden follows the consequence of failure, not whether a human or an agent wrote the code. Users are a sensor, not an oracle.
 
-The personal loop is the same nerve on one key. SHAcollision ran that version first: a health-stats app wired to his own fitness ring. Features he used more exposed more sub-features. Features he neglected for too long were removed. The essay generalizes from that experiment.
+The idea generalizes from SHAcollision's personal experiment: a vibe-coded health app connected to his fitness ring and watches, with aggressive telemetry about how he used the software itself. Features he used more exposed more functionality. Features he ignored disappeared. New ideas were inserted to see whether they survived contact with his real behavior.
 
-“Living software” already names runtime agency (one person, one session, one adapting instance). Bitdefender used “vibeware” for vibe-coded malware. Neither is this.
+Bitdefender used "vibeware" in 2026 for AI-generated malware. This work uses the word independently and in a different sense.
 
 - [Vibeware: The Age of Sensitive Software](vibeware.md)
+- [The Vibeware Playbook](vibeware-playbook.md)
 - [Prior-art claim chart](prior-art-claim-chart.md)

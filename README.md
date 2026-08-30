@@ -12,9 +12,10 @@ Exit-ordered role allocation defines recovery or authority roles before assignin
 
 ## Vibeware
 
-Software that can feel use and move, with a threshold. A user population qualifies shared updates. An agent writes the candidates. Humans hold only the boundaries. The personal form starts from SHAcollision’s health-stats app, wired to his fitness ring: used features expanded, neglected ones were removed.
+Sensitive software: software whose cheap mutability is disciplined by real use, qualification, selection, and explicit boundaries. The loop is `use → qualify → generate → expose → select → use`. Users are a sensor, not an oracle. The idea generalizes from SHAcollision’s personal experiment: a vibe-coded health app wired to his fitness ring, where used features expanded and neglected ones disappeared.
 
 - [Vibeware: The Age of Sensitive Software](vibeware/vibeware.md)
+- [The Vibeware Playbook](vibeware/vibeware-playbook.md)
 - [Prior-art claim chart](vibeware/prior-art-claim-chart.md)
 
 ## Money and Value
