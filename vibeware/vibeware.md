@@ -6,11 +6,11 @@ date: "2026-08-30"
 
 # Vibeware: The Age of Sensitive Software
 
-SHAcollision built a personal health-stats app and wired it to his own fitness ring. The ring collected what his body was doing. The app was not a report he opened later. It was software that could feel those readings and change what it did next.
+SHAcollision built a personal health-stats app and wired it to his own fitness ring. The ring collected what his body was doing. The app was also sensitive to how he used it. Features he used more exposed more of their sub-features. Features he neglected for too long were removed. The app was not a report he opened later. It was software that could feel both his readings and his attention, and change what it offered next.
 
-That experiment is the seed of everything below. The rest of this argument is a generalization of his loop: one person, one ring, one app that could notice him. Sensitive software is software that can detect real use and move. Numb software cannot feel use. It ships, then waits for a ticket. Hypersensitive software feels everything and twitches. Every support message becomes a patch. Every loud user becomes a roadmap. Vibeware is the age in which products grow a nerve and a threshold. The nerve is the instrument. The threshold is qualification.
+That experiment is the seed of everything below. The rest of this argument is a generalization of his loop: one person, one ring, one app that could notice both his body and which features he still wanted. Sensitive software is software that can detect real use and move. Numb software cannot feel use. It ships, then waits for a ticket. Hypersensitive software feels everything and twitches. Every support message becomes a patch. Every loud user becomes a roadmap. Vibeware is the age in which products grow a nerve and a threshold. The nerve is the instrument. The threshold is qualification.
 
-His loop is personal. One body, one ring, one owner. A product company faces the shared version of the same nerve: enough real users, a lossy funnel, an agent that writes candidates, and humans only where a mistake cannot be cheaply undone. The farther problem is the personal version taken all the way: an operating system and a set of apps that follow one person's stated preference, and follow that preference as it changes, until writing tickets is no longer the scarce job.
+His loop is personal. One body, one ring, one owner, one surface that grew and shrank with use. A product company faces the shared version of the same nerve: enough real users, a lossy funnel, an agent that writes candidates, and humans only where a mistake cannot be cheaply undone. The farther problem is the personal version taken all the way: an operating system and a set of apps that follow one person's stated preference, and follow that preference as it changes, until writing tickets is no longer the scarce job.
 
 Bitdefender used "vibeware" for vibe-coded malware. That is not this. Jules White and Taskade used "living software" for chat that rewrites a running app for one owner. That is also not this.
 
@@ -20,7 +20,7 @@ The next step is not another way to produce tickets faster. It is a way to let u
 
 ## Two loops, one nerve
 
-SHAcollision's health app is personal Vibeware. The user and the operator are the same person. The sensor is a ring he wears. The beneficiary of the update is the person who produced the signal. That control boundary is clean.
+SHAcollision's health app is personal Vibeware. The user and the operator are the same person. The sensors are the ring he wears and the features he actually touches. The beneficiary of the update is the person who produced the signal. That control boundary is clean.
 
 Shared Vibeware is a different object with the same nerve. A population uses one product. Qualified friction decides which candidates an agent may write. Validation decides which of those candidates other people will receive. The provider holds only the boundaries: consent, money, keys, private data, and protocol compatibility.
 
@@ -74,7 +74,7 @@ Continuous discovery, as Torres describes it, is the human-operated version of c
 
 The overclaim to avoid is "nobody uses real users to change software." Teams do, constantly. The gap is automatic generation and promotion of source from a qualified population, not the existence of user signal.
 
-SHAcollision's ring already closes a personal version of capture and move. It does not close the shared funnel. One person's body is not a population. One person's app is not a release that other people inherit. The composition that is still open is the shared one: real users, qualification, generated source, validation, promotion, and a human only at the boundaries.
+SHAcollision's app already closes a personal version of capture and move. Use expanded a surface. Neglect deleted one. That is a threshold, not a twitch. It does not close the shared funnel. One person's body is not a population. One person's app is not a release that other people inherit. The composition that is still open is the shared one: real users, qualification, generated source, validation, promotion, and a human only at the boundaries.
 
 ## Why the composition matters now
 
@@ -160,7 +160,7 @@ Pubky's platform claim can be tested the same way. If every experiment requires 
 
 ## The age after developers
 
-SHAcollision's app is a personal instrument. Take that seriously and the horizon is not a better ticket queue. It is an operating environment that is as sensitive to one person as a ring is to a wrist.
+SHAcollision's app is a personal instrument. It grew the parts he used and dropped the parts he ignored. Take that seriously and the horizon is not a better ticket queue. It is an operating environment that is as sensitive to one person as a ring is to a wrist, and as willing to hide what that person has stopped needing.
 
 Layout, density, ranking, notifications, and "how I want to see this" stop being a vendor's annual taste and start following a stated preference, plus how that preference changes. You tell the machine you want fewer badges, denser lists, quieter mornings, a health surface that reports and does not nag. Then you live with it. When your use diverges from what you said, the software can notice the divergence and propose a change to *your* environment, not to everyone else's release. The shared funnel is how a product moves. The personal loop is how a key's world moves.
 
@@ -170,7 +170,7 @@ The durable actor in that picture is not the model and not the vendor account. I
 
 That is the failure mode in the same breath. A provider-owned "sensitive" OS is a more intimate capture loop. Sensitivity without credible exit is surveillance with better UX. The same streams that let an app feel you can be sold to a model host, used to lock you to a remnant cohort, or treated as a free training set because the readings happen to sit in someone else's cloud. If the person producing the signal cannot inspect it, leave with it, and benefit from the update it justifies, the nerve is not an instrument. It is a leash.
 
-Pubky is useful here as an existence proof of the actor, not as a promise that Synonym will ship a developer-free OS this year. A public key, a homeserver the user can change, and explicit grants are the shape of a personal loop that can stay personal. SHAcollision already ran a version of that loop on his own body. The shared product work is to put a threshold in front of the nerve so a population can move software without twitching. The personal work is to keep the beneficiary and the sensor on the same key.
+Pubky is useful here as an existence proof of the actor, not as a promise that Synonym will ship a developer-free OS this year. A public key, a homeserver the user can change, and explicit grants are the shape of a personal loop that can stay personal. SHAcollision already ran a version of that loop on his own body and his own attention. The shared product work is to put a threshold in front of the nerve so a population can move software without twitching. The personal work is to keep the beneficiary and the sensor on the same key.
 
 ## The criterion
 

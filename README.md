@@ -12,7 +12,7 @@ Exit-ordered role allocation defines recovery or authority roles before assignin
 
 ## Vibeware
 
-Software that can feel use and move, with a threshold. A user population qualifies shared updates. An agent writes the candidates. Humans hold only the boundaries. The personal form starts from SHAcollision’s health-stats app, wired to his fitness ring.
+Software that can feel use and move, with a threshold. A user population qualifies shared updates. An agent writes the candidates. Humans hold only the boundaries. The personal form starts from SHAcollision’s health-stats app, wired to his fitness ring: used features expanded, neglected ones were removed.
 
 - [Vibeware: The Age of Sensitive Software](vibeware/vibeware.md)
 - [Prior-art claim chart](vibeware/prior-art-claim-chart.md)
