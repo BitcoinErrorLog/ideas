@@ -1,7 +1,7 @@
-# Population-Steered Software: Prior-Art Claim Chart
+# Vibeware: Prior-Art Claim Chart
 
 **Cutoff date:** 30 August 2026  
-**Purpose:** Technical novelty screening for population-steered software and the update funnel. This is not a legal novelty or freedom-to-operate opinion.
+**Purpose:** Technical novelty screening for Vibeware (sensitive software with a live update funnel). This is not a legal novelty or freedom-to-operate opinion.
 
 ## The claim under test
 
@@ -34,14 +34,15 @@ Classification:
 
 No verified academic or production system is **composed**. Adjacent systems close monitor/analyze, generate source, or ship updates. None combine a real-population demand qualifier with automatic source generation and promotion of a shared product.
 
-The phrase **Living Software** is occupied for a different object: runtime translation of an individual's goals. The category name used here is **population-steered software**. The stage diagram is the **update funnel**.
+The phrase **Living Software** is occupied for a different object: runtime translation of an individual's goals. Bitdefender used **vibeware** in 2026 for vibe-coded malware. That is name collision, not this composition. The category name used here is **Vibeware**: software that can feel use and move, with a threshold. The shared mechanism is the **update funnel**. Personal Vibeware (one key, one instrument) is a related object, not the composed claim under test.
 
 Search negatives as of this cutoff:
 
-- `"population-steered"` software: no academic hit
+- `"population-steered"` software: no academic hit (earlier working name for the shared funnel)
 - `"user-steered evolution"` software: no academic hit
 - `"demand-driven autonomous development"`: no exact hit
 - `"sales pipeline" for software change`: no systems paper. Hits are sales tooling or essays arguing *against* pipeline framing of the SDLC
+- `"vibeware"` as product-evolution / sensitive-software: no academic hit. Security-press hits are Bitdefender's malware coinage.
 
 ---
 
@@ -64,7 +65,7 @@ Search negatives as of this cutoff:
 - Matches: Monitor → Analyze → Plan → Execute over shared Knowledge
 - Missing: Q1, Q3 as product source, Q5. Execute acts on a managed resource through effectors. Users appear as load, not as demand.
 
-MAPE-K is the architectural ancestor of any later telemetry-to-action loop. Population-steered software reuses the loop shape and changes two things: the managed object from running system to product source, and the sensor from ops metrics to qualified population friction.
+MAPE-K is the architectural ancestor of any later telemetry-to-action loop. Shared Vibeware reuses the loop shape and changes two things: the managed object from running system to product source, and the sensor from ops metrics to qualified population friction.
 
 ### IBM blueprint (2003)
 
@@ -99,7 +100,7 @@ MAPE-K is the architectural ancestor of any later telemetry-to-action loop. Popu
 
 - Classification: **adjacent**
 - Matches: what / how / when / where taxonomy of adaptation
-- Missing: population-steered evolution as a named *what* (product source) and *how* (qualified-friction pipeline)
+- Missing: Vibeware as a named *what* (product source) and *how* (qualified-friction pipeline)
 
 ### Weyns industry survey (2023)
 
@@ -253,7 +254,7 @@ GI proves source can be evolved when an oracle exists. The missing piece is a po
 - Matches: use → ticket → patch → gate → merge; claimed 1,094+ merged PRs; unbeatable tests; drain/starvation/pause gates
 - Missing: **Q1**. Sensor is a synthetic “As a User × 1000” agent against a specification surface. Humans share a backlog/spec. They are not the demand sensor.
 
-Best published system for long-running autonomous *source* evolution with ship discipline. Spec-steered and synthetic-user-steered, not population-steered.
+Best published system for long-running autonomous *source* evolution with ship discipline. Spec-steered and synthetic-user-steered, not population-qualified.
 
 ### MOSS (May 2026)
 
@@ -332,7 +333,7 @@ Treat as industry system, not a paper.
 - Classification: **name collision**
 - Genre: self-labeled opinion paper. No methods, no evaluation, five references.
 - Definition: software is “dead” because it is static. “Living” systems use generative AI as a translator from human goals to computer actions. Pathway 1: GenAI writes traditional source faster. Pathway 2: agentic AI maps natural-language goals onto APIs at runtime.
-- Population-steered code: **no**. Users are prompt-givers, not a selecting population. There is no telemetry, qualification, candidate, validation, or promotion pipeline.
+- Shared Vibeware: **no**. Users are prompt-givers, not a selecting population. There is no telemetry, qualification, candidate, validation, or promotion pipeline.
 
 ### Taskade Genesis (October 2025 onward)
 
@@ -340,7 +341,7 @@ Treat as industry system, not a paper.
 
 - Classification: **name collision** (productized category)
 - Definition: persistent memory + embedded agents + continuous execution. “Describe the change in chat; the running app updates.”
-- Population-steered code: **no**. Change is owner-in-chat or agent re-planning from that workspace’s memory.
+- Shared Vibeware: **no**. Change is owner-in-chat or agent re-planning from that workspace’s memory.
 
 ### Jack Cheng, *Every* (17 April 2026)
 
@@ -384,7 +385,15 @@ Living Software, Inc. (DairyLive herd software). Living Software Ltd (UK, 2014).
 - No live USPTO registration for “LIVING SOFTWARE” found in 2024–2026 searches. No Taskade filing found.
 - No patent using “living software” as a defined claim term found. Related metaphors exist (self-generating software). The field is not empty of related *ideas*.
 
-**Naming decision:** the 2024–2026 “Living Software” cluster means runtime agentic adaptivity. Population-steered software is a selection-and-promotion architecture for shared updates. Those are different control boundaries. Contesting the phrase reads as late entry into a productized category. The article uses **population-steered software** and treats “living software” as a foil.
+### Bitdefender — “Vibeware” malware (2026)
+
+**Source:** Bitdefender Labs, “APT36: A Nightmare of Vibeware,” [businessinsights.bitdefender.com](https://businessinsights.bitdefender.com/apt36-nightmare-vibeware). Trade repeats: Computer Weekly, 9 March 2026.
+
+- Classification: **name collision**
+- Definition: vibe-coded malware; high-volume, mediocre, disposable implants (APT36 / Transparent Tribe).
+- Shared Vibeware: **no**. Different object. The word is used here for sensitive software with a live update funnel, not for AI-generated junk malware.
+
+**Naming decision:** the 2024–2026 “Living Software” cluster means runtime agentic adaptivity. Bitdefender’s 2026 “vibeware” means vibe-coded malware. Shared Vibeware here is a selection-and-promotion architecture for shared updates, plus a related personal loop (one key, one instrument). Those are different control boundaries. The article uses **Vibeware** and treats both “living software” and the malware coinage as foils. Do not over-explain either.
 
 ---
 
@@ -460,25 +469,26 @@ These are not prior art for the *idea*. They constrain any implementation.
 | MOSS | partial (sessions) | batch | yes | replay | consent swap | user consent |
 | Genesis | no | human goal | yes | tests | accept | no |
 | White / Taskade “living” | no | no | runtime / chat | no | no | “not for flying a plane” |
+| Bitdefender “vibeware” | no | no | malware | no | no | n/a |
 | Rusan essay | implied | no | implied | no | implied | no |
 | BitsEvolve | traffic, not UX | fitness | yes | shadow | WASM swap | verify |
 | Bits Code | telemetry | human | yes | no | PR only | human merge |
 | Tero (unverified) | claimed | claimed | claimed | claimed A/B | claimed | unknown |
-| **Population-steered software** | **yes** | **yes** | **yes** | **yes** | **yes** | **yes** |
+| **Vibeware (shared funnel)** | **yes** | **yes** | **yes** | **yes** | **yes** | **yes** |
 
 ---
 
 ## What can be claimed
 
 1. The **composed** funnel (Q1–Q6) is unclaimed as a named, implemented, evaluated system.
-2. **Living Software** already names runtime intent-translation (White 2024) and a productized category (Taskade 2025–26). Cite and distinguish. Do not reclaim the phrase.
+2. **Living Software** already names runtime intent-translation (White 2024) and a productized category (Taskade 2025–26). Cite and distinguish. Do not reclaim the phrase. Bitdefender’s **vibeware** is malware coinage. Cite as name collision. Do not spend a section on it.
 3. MAPE-K is the loop ancestor. The managed object and the sensor both change.
 4. Online controlled experiments and feature flags are the validation/ship ancestor. Humans still author treatments.
 5. GI, AlphaEvolve, Genesis, DGM, and SICA prove source can evolve without users. Fitness is tests, benchmarks, or a human objective.
 6. Kitchen Loop and Apeiron prove an autonomous use → code → gate loop with **fake** users.
 7. MOSS is the nearest academic generate-and-ship-from-evidence system and still misses population qualification.
 8. BitsEvolve is the nearest production auto-ship-from-live-evidence system and the evidence is kernel performance.
-9. The sales-pipeline metaphor for software change, and the phrases “population-steered” / “user-steered evolution,” have no verified prior. Apeiron’s “demand-optimized” is the nearest named concept and uses simulated demand.
+9. The sales-pipeline metaphor for software change, and the phrases “population-steered” / “user-steered evolution,” have no verified prior. Apeiron’s “demand-optimized” is the nearest named concept and uses simulated demand. “Vibeware” as sensitive software / shared update funnel has no verified product-evolution prior. Security-press hits are the malware coinage.
 10. Tero is a vendor sketch, not academic prior art.
 
 **Hardest overclaim to avoid:** “nobody uses real users to change software.” They do, through A/B tests, flags, discovery, and product-led growth. The gap is automatic generation and promotion of **source** from **qualified population friction**, not the existence of user signal.
