@@ -1,5 +1,5 @@
 ---
-title: "Vibeware: The Age of Sensitive Software"
+title: "Vibeware: Sensitive Software"
 subtitle: "Vibe coding made implementation cheap. The next step is software that can feel its own use, generate alternatives, and evolve under human judgment."
 author: "John Carvalho"
 date: "2026-08-30"
